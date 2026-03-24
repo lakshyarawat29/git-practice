@@ -6,5 +6,6 @@ public class Main {
         System.out.println("this is commit 3: Lakshaya");
         System.out.println("this is the feature branch modified line");
         System.out.println("this is the master branch modified line:ANURAG");
+        System.out.println("this is the master branch modified line 2 :ANURAG");
     }
 }   
